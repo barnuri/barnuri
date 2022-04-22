@@ -1,5 +1,7 @@
 [![barnuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=barnuri&show_icons=true&theme=tokyonight)](https://github.com/barnuri)
 
+
+
 # Favorite Repositories
 - [![C# OpenSource](https://avatars.githubusercontent.com/u/96652325?s=64&v=4) C# OpenSource](https://github.com/csharp-opensource)
 - [openapi-toolkit](https://github.com/barnuri/openapi-toolkit)
@@ -12,7 +14,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](barnuri@hotmail.com)
 
 
-## badges
+# badges
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
