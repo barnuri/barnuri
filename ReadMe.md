@@ -3,6 +3,9 @@
 # Favorite Repositories
 - [![C# OpenSource](https://avatars.githubusercontent.com/u/96652325?s=64&v=4) C# OpenSource](https://github.com/csharp-opensource)
 - [openapi-toolkit](https://github.com/barnuri/openapi-toolkit)
+- [vscode-extensions](https://github.com/barnuri/vscode-extensions)
+- [powershell-utils](https://github.com/barnuri/powershell-utils)
+
 
 # ways to contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barnuri/)
