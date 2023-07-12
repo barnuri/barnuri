@@ -7,6 +7,7 @@
 - [openapi-toolkit](https://github.com/barnuri/openapi-toolkit)
 - [vscode-extensions](https://github.com/barnuri/vscode-extensions)
 - [powershell-utils](https://github.com/barnuri/powershell-utils)
+- [chrome-extension](https://github.com/barnuri/chrome-extension)
 
 
 # ways to contact
